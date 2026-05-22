@@ -97,7 +97,7 @@ These steps helped prepare the dataset for interactive business intelligence rep
 * Top transaction days
 * Customer spending patterns
 
-## 4️⃣ Risk & Profitability Dashboard
+## 4️⃣ Risk & Segmentation Dashboard
 
 * Customer segmentation
 * Risk analysis
